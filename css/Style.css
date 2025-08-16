@@ -1,0 +1,141 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #4B808C;
+    color: white;
+    align-content: center;
+}
+
+.contact{
+    margin-left: 50%;
+    font-size: 20px;
+}
+.portfolio{
+    margin-left: 5%;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.mij{
+    margin-left: 5%;
+    font-size: 20px;
+}
+#head{
+    background-image: url(../images/Afbeelding\ van\ WhatsApp\ op\ 2025-08-14\ om\ 15.30.00_cfc1ff30.jpg);
+    width: 100%;
+    height: 300px;
+    align-content: center;
+}
+h1{
+    margin-left: 40%;
+    font-size: 100px;
+    color: white;
+}
+img{
+    height: 200px;
+    margin-left: 6%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.hero{
+    font-size: 20px;
+    width: 100%;
+    height: 520px;
+    background-color: #6DBC9E;
+
+}
+.hero h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+.hero{
+      display: grid;
+  grid-template-columns: 45% 22% 33%;
+
+}
+#wit{
+    width: 25%;
+}
+.hero img{
+    width: 60%;
+    height: auto;
+}
+.hero p {margin: 5%;}
+.hero h2{margin: 5%;}
+.hero div a {width: 40%;
+margin-left: 30%;
+background-color: #576793;
+border-radius: 5%;
+padding-left:5% ;
+padding-right:5% ;
+padding-top: 2%;
+padding-bottom: 2%;
+color: white;
+text-decoration: none;}
+
+.footer{
+    width: 100%;
+    height: 160px;
+    background-color: #4B808C;
+    
+
+}
+.footer h3{
+    color: white;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.logo{
+    margin-left: 40%;
+    width: 20%;
+    height: auto;
+}
+.uitleg div{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.uitleg h2{
+    
+    font-size: 50px;
+    font-weight: bold;
+        margin-left: 10%;
+    margin-right: 10%;
+}
+.uitleg p {
+    
+    font-size: 30px;
+    margin-bottom: 2%;
+        margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+.uitleg div a {width: 40%;
+margin-left: 45%;
+background-color: #576793;
+border-radius: 5%;
+padding-left:5% ;
+padding-right:5% ;
+padding-top: 2%;
+padding-bottom: 2%;
+color: white;
+text-decoration: none;
+font-size: 20px;
+margin-bottom: 15px;
+}
+h3{margin-top: 1%;}
+.Portfoto{height: 300px;
+width: auto;}
+#port{color: #4B808C;
+font-size: 80px;
+font-weight: bold;
+margin-left: 5%;
+margin-top: 2%;}
+.footer{
+    display: grid;
+    grid-template-columns: 33% 33% 33% ;
+}
+.footer img{
+    height: 150px;
+    width: auto;
+}
